@@ -1,3 +1,6 @@
+#AdMob
+google.com, pub-9805202981895604, DIRECT, f08c47fec0942fa0
+
 #Updated 31.03.2026
 
 #Appodeal
